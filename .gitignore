@@ -6,7 +6,8 @@ __pycache__/
 # C extensions
 *.so
 data/*
-
+slides/*
+*.png
 *.csv
 
 # Distribution / packaging
