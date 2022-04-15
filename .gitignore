@@ -3,9 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*/stream/*
+
 # C extensions
 *.so
 data/*
+slides/*
+*.png
+*.csv
 
 # Distribution / packaging
 .Python
