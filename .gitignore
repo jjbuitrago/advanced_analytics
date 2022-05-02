@@ -10,6 +10,8 @@ __pycache__/
 data/*
 slides/*
 *.png
+*.h5
+
 
 # Distribution / packaging
 .Python
